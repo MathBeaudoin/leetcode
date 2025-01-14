@@ -11,5 +11,5 @@ CMake is used to compile the code and build the executable. Solutions are added 
 
 To do so, run (from `/c++/` directory):
 ```
-cmake -B ./build && cmake --build ./build
+cmake -B ./build && cmake --build ./build && ./build/new_target
 ```
