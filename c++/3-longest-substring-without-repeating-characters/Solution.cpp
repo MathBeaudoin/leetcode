@@ -30,10 +30,11 @@ public:
                 ++current_substring;
             }
 
+            longest_substring = max(longest_substring, current_substring);
             current_substring = 0;
         }
 
-        return max(longest_substring, current_substring);
+        return longest_substring;
     }
 };
 

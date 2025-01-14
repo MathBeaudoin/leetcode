@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    auto s = Solution().lengthOfLongestSubstring("aa");
+    auto s = Solution().lengthOfLongestSubstring(" ");
 
     cout << s << endl;
 
