@@ -3,5 +3,4 @@ add_executable(new_target 128-longest-consecutive-sequence/Solution.cpp
         1-two-sum/Solution.cpp
         0-template-problem/Solution.cpp
         3-longest-substring-without-repeating-characters/Solution.cpp
-        5-longest-palindromic-substring/Solution.cpp
 )

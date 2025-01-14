@@ -1,8 +1,5 @@
-//
-// https://leetcode.com/problem-list/oizxjoit/
-//
-#include <vector>
 #include <iostream>
+#include <vector>
 #include <unordered_set>
 
 using namespace std;

@@ -1,9 +1,6 @@
-//
-// https://leetcode.com/problems/longest-consecutive-sequence/description/?source=submission-ac
-//
+#include <iostream>
 #include <vector>
 #include <unordered_set>
-#include <iostream>
 
 using namespace std;
 
