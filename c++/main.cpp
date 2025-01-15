@@ -1,10 +1,10 @@
-#include "./133-clone-graph/Solution.cpp"
+#include "./647-palindromic-substrings/Solution.cpp"
 #include <iostream>
 
 using namespace std;
 
 int main() {
-    auto s = Solution().cloneGraph({});
+    auto s = Solution().countSubstrings("");
 
     cout << s << endl;
 
