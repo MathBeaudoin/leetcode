@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    auto s = Solution().countSubstrings("");
+    auto s = Solution().countSubstrings("aaa");
 
     cout << s << endl;
 
