@@ -6,4 +6,5 @@ add_executable(new_target 128-longest-consecutive-sequence/Solution.cpp
         5-longest-palindromic-substring/Solution.cpp
         133-clone-graph/Solution.cpp
         647-palindromic-substrings/Solution.cpp
+        11-container-with-most-water/Solution.cpp
 )
