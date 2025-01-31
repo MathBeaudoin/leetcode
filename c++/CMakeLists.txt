@@ -14,4 +14,5 @@ add_executable(new_target 128-longest-consecutive-sequence/Solution.cpp
         19-remove-nth-node-from-end-of-list/Solution.cpp
         20-valid-parentheses/Solution.cpp
         21-merge-two-sorted-lists/Solution.cpp
+        utils/ListNode.h
 )
