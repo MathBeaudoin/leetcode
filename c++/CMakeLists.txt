@@ -10,4 +10,5 @@ add_executable(new_target 128-longest-consecutive-sequence/Solution.cpp
         141-linked-list-cycle/Solution.cpp
         268-missing-number/Solution.cpp
         15-3sum/Solution.cpp
+        143-reorder-list/Solution.cpp
 )
