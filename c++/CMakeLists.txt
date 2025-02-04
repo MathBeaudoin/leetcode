@@ -16,4 +16,6 @@ add_executable(new_target 128-longest-consecutive-sequence/Solution.cpp
         21-merge-two-sorted-lists/Solution.cpp
         utils/ListNode.h
         23-merge-k-sorted-lists/Solution.cpp
+        152-maximum-product-subarray/Solution.cpp
+        utils/PrettyPrint.h
 )

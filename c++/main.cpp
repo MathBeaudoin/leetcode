@@ -1,16 +1,14 @@
-#include "./23-merge-k-sorted-lists/Solution.cpp"
+#include "./152-maximum-product-subarray/Solution.cpp"
 #include <iostream>
 #include "./utils/ListNode.h"
+#include "./utils/PrettyPrint.h"
 
 using namespace std;
 
 int main() {
-    vector<ListNode*> lists = {
-        make_list_node_from_values({1, 4, 5}),
-        make_list_node_from_values({1, 3, 4}),
-        make_list_node_from_values({2, 6})};
-
-    auto s = Solution().mergeKLists(lists);
+    vector<int> values = {2, -3, 2, -4, -2, 5};
+    vector<vector<int>> vals = {{1, 2}, {3, 4}};
+    auto s = Solution().maxProduct(values);
     cout << s << endl;
 
     return 0;
