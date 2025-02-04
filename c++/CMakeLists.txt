@@ -18,4 +18,5 @@ add_executable(new_target 128-longest-consecutive-sequence/Solution.cpp
         23-merge-k-sorted-lists/Solution.cpp
         152-maximum-product-subarray/Solution.cpp
         utils/PrettyPrint.h
+        153-find-minimum-in-rotated-sorted-array/Solution.cpp
 )
