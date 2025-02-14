@@ -5,3 +5,5 @@ mkdir $answer
 
 touch $answer/Solution.cpp
 cat 0-template-problem/Solution.cpp > $answer/Solution.cpp
+echo ""
+echo "New directory create with its associated file!"
