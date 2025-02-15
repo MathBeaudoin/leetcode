@@ -21,4 +21,5 @@ add_executable(new_target 128-longest-consecutive-sequence/Solution.cpp
         153-find-minimum-in-rotated-sorted-array/Solution.cpp
         33-search-in-rotated-sorted-array/Solution.cpp
         417-pacific-atlantic-water-flow/Solution.cpp
+        39-combination-sum/Solution.cpp
 )
